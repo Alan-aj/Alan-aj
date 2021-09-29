@@ -22,4 +22,4 @@ jobs:
           target_branch: output
           build_dir: dist
         env:
-          AL_TOKENS: ${{ secrets.AL_TOKENS }}
+          GITHUB_TOKENS: ${{ secrets.GITHUB_TOKENS }}
