@@ -11,8 +11,5 @@
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
 <div>
-<h2><img src="https://github.com/Alan-aj/Alan-aj/blob/output/github-contribution-grid-snake.svg" /></h2>
-</div>
-<div>
 <h2><img src="https://visitor-badge.laobi.icu/badge?page_id=Alan-aj.Alan-aj" /></h2>
 </div>
