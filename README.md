@@ -15,6 +15,11 @@
 </div>
 <details>
   <summary>More...</summary><br/>
-  <img align="center" height="140em" alt="Github Stats"  src="https://github-readme-stats.vercel.app/api?username=Alan-aj&show_icons=true&hide_title=true&theme=highcontrast&include_all_commits=true&count_private=true&title_color=fff" />
-  <img align="center" height="140em" alt="Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alan-aj&layout=compact&langs_count=7&theme=highcontrast&title_color=fff" />
+  <p align="center">
+  <img height="140em" alt="Github Stats"  src="https://github-readme-stats.vercel.app/api?username=Alan-aj&show_icons=true&hide_title=true&theme=highcontrast&include_all_commits=true&count_private=true&title_color=fff" />
+  <img height="140em" alt="Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alan-aj&layout=compact&langs_count=7&theme=highcontrast&title_color=fff" />
+  <img src="https://activity-graph.herokuapp.com/graph?username=Alan-aj&theme=react-dark&hide_border=true">
+
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20World!%22);System.out.println(%22Hello%2C%20World!%22);print(%22Hello%2C%20World!%22);printf(%22Hello%2C%20World!%22);fmt.Println(%22Hello%2C%20World!%22);println!(%22Hello%2C%20World!%22);cout%20%3C%3C%20%22Hello%2C%20World!%22&center=true&size=27&width=550">
+  </p>
 </details>
