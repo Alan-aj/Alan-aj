@@ -1,8 +1,8 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> , I’m Alan</h1><hr>
 <p align="center" >
   
-  <img height="150" alt="Github Stats"  src="https://github-readme-stats.vercel.app/api?username=Alan-aj&show_icons=true&hide_title=true&theme=highcontrast&include_all_commits=true&count_private=true&title_color=fff&border_color=444&border=666" />
-  <img height="150" alt="Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alan-aj&layout=compact&langs_count=7&theme=highcontrast&title_color=fff&border_color=444&border=666" />
+  <img height="150" alt="Github Stats"  src="https://github-readme-stats.vercel.app/api?username=Alan-aj&show_icons=true&hide_title=true&theme=highcontrast&include_all_commits=true&count_private=true&title_color=fff&border_color=444&border=0" />
+  <img height="150" alt="Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alan-aj&layout=compact&langs_count=7&theme=highcontrast&title_color=fff&border_color=444&border=0" />
 </p>
 <br/>
 <div align="center" >
