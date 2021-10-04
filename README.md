@@ -4,9 +4,19 @@
 
 <img align="center" height="25" src="https://img.shields.io/badge/My%20job-Still%20learning-black?style=flat-square&logo=microgenetics&logoColor=white" />
 </p>
-
-I am... <br/>
-I love... <br/>
+<p>
+<h2>I am... </h2><br/>
+<ul>
+  <li>I'm a student, undergraduate, developer</li>
+  <li>I'm currently a third year CS student</li>
+  <li>I'm currently working on my final year project</li>
+  <li>I'm currently learning full-stack and machine learning</li>
+</ul><br/>
+<h2>I love... </h2><br/>
+<ul>
+  <li>I love playing with code</li>
+  <li>I love to explore new world</li>
+</ul>
 
 <br/>
 
