@@ -18,7 +18,7 @@
   <li>🧡 I love playing with code</li>
   <li>💛 I love to explore new world</li>
   <li>💚 I love to learn something new</li>
-</ul>
+</ul><br/>
 </p>
 <p align="center">
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -47,10 +47,10 @@
   <summary><b>⚡ Github Streaks</b></summary><br/>
   <img height="150" alt="Github Streaks"  src="https://github-readme-streak-stats.herokuapp.com/?user=Alan-aj&hide_border=true&theme=highcontrast" />
 </details>
-
-<div align="center">
+<br/>
+<p align="center" >
+<img height="25" src="https://visitor-badge.laobi.icu/badge?page_id=Alan-aj.Alan-aj" />
+</p>
+<p align="center">
 <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20World!%22);System.out.println(%22Hello%2C%20World!%22);print(%22Hello%2C%20World!%22);printf(%22Hello%2C%20World!%22);fmt.Println(%22Hello%2C%20World!%22);println!(%22Hello%2C%20World!%22);cout%20%3C%3C%20%22Hello%2C%20World!%22&center=true&size=25&width=600">
-</div>  
-<h3 align="center">Show some ❤️ by ⭐</h3>
- 
-<img align="center" height="25" src="https://visitor-badge.laobi.icu/badge?page_id=Alan-aj.Alan-aj" />
+</p>
