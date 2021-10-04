@@ -2,14 +2,12 @@
 <p align="center" >
 <img align="center" alt="Website" height="25" src="https://img.shields.io/badge/Website-black?style=flat-square&logo=google-chrome&logoColor=white">
 <img align="center" height="25" src="https://img.shields.io/badge/-LinkedIn-black?style=flat-square&logo=Linkedin&logoColor=white" />
-<img align="center" height="25" src="https://img.shields.io/badge/My%20blog-black?style=flat-square&logo=microgenetics&logoColor=white" />
-<img align="center" height="25" src="https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=If%20Useful&style=style=flat-square&color=black" alt="Star Badge"/>
-
+<img align="center" height="25" src="https://img.shields.io/badge/My%20blog-black?style=flat-square&logo=microgenetics&logoColor=white" /><br/>
 </p>
 <p>
 <h2>I am... </h2>
 <ul>
-  <li>💪 I'm a student, undergraduate, developer</li>
+  <li>💪 I'm a student, undergraduate, developer and life-long learner</li>
   <li>🤟 I'm currently a third year CS student</li>
   <li>🤝 I'm currently working on my final year project</li>
   <li>👌 I'm currently learning full-stack and machine learning</li>
@@ -51,12 +49,9 @@
 </details>
 <br/>
 <p align="center" >
-<img height="25" src="https://visitor-badge.laobi.icu/badge?page_id=Alan-aj.Alan-aj" />
+<img align="center" height="25" src="https://visitor-badge.laobi.icu/badge?page_id=Alan-aj.Alan-aj" />
+<img align="center" height="25" src="https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=If%20Useful&style=flat-square&color=black" alt="Star Badge"/>
 </p>
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20World!%22);printf(%22Hello%2C%20World!%22);cout%20%3C%3C%20%22Hello%2C%20World!%22&center=true&size=25&width=600">
 </p>
-<!-- <p align="center"> 
-  Visitors count<br/>
-  <img src="https://profile-counter.glitch.me/Alan-aj/count.svg" /> https://img.shields.io/badge/version-13.Jul.2021-informational
-</p> --!>
