@@ -1,33 +1,32 @@
-<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> , I’m Alan</h1><br/>
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> , I’m Alan</h1>
 <p align="center" >
 <img align="center" alt="Website" height="25" src="https://img.shields.io/badge/Website-black?style=flat-square&logo=google-chrome&logoColor=white">
 
 <img align="center" height="25" src="https://img.shields.io/badge/My%20job-Still%20learning-black?style=flat-square&logo=microgenetics&logoColor=white" />
 </p>
 <p>
-<h2>I am... </h2><br/>
+<h2>I am... </h2>
 <ul>
-  <li>I'm a student, undergraduate, developer</li>
-  <li>I'm currently a third year CS student</li>
-  <li>I'm currently working on my final year project</li>
-  <li>I'm currently learning full-stack and machine learning</li>
-</ul><br/>
-<h2>I love... </h2><br/>
+  <li>💪 I'm a student, undergraduate, developer</li>
+  <li>🤟 I'm currently a third year CS student</li>
+  <li>🤝 I'm currently working on my final year project</li>
+  <li>👌 I'm currently learning full-stack and machine learning</li>
+</ul></p>
+<p>
+<h2>I love... </h2>
 <ul>
-  <li>I love playing with code</li>
-  <li>I love to explore new world</li>
+  <li>🧡 I love playing with code</li>
+  <li>💛 I love to explore new world</li>
+  <li>💚 I love to learn something new</li>
 </ul>
-
-<br/>
-
-<div align="center" >
+</p>
+<p align="center">
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
-</div>
-<br/>
+</p>
 <p align="center">
 <img height="27" src="https://img.shields.io/badge/-VS%20Code-black?style=flat-square&logo=visual-studio-code">
 <img height="27" src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github&logoColor=white">
