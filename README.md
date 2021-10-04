@@ -21,11 +21,11 @@
 </ul><br/>
 <details>	
   <summary><b>⚡ Github Stats</b></summary><br/>
-  <img height="150" alt="Github Stats"  src="https://github-readme-stats.vercel.app/api?username=Alan-aj&show_icons=true&hide_title=true&theme=highcontrast&include_all_commits=true&count_private=true&title_color=fff&hide_border=true" />
+  <img alt="Github Stats"  src="https://github-readme-stats.vercel.app/api?username=Alan-aj&show_icons=true&hide_title=true&theme=highcontrast&include_all_commits=true&count_private=true&title_color=fff&hide_border=true" />
 </details>
 <details>	
   <summary><b>⚡ Github Streaks</b></summary><br/>
-  <img height="150" alt="Github Streaks"  src="https://github-readme-streak-stats.herokuapp.com/?user=Alan-aj&hide_border=true&theme=highcontrast" />
+  <img alt="Github Streaks"  src="https://github-readme-streak-stats.herokuapp.com/?user=Alan-aj&hide_border=true&theme=highcontrast" />
 </details>
 <br/>
 </p>
