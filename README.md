@@ -19,6 +19,15 @@
   <li>💛 I love to explore new world</li>
   <li>💚 I love to learn something new</li>
 </ul><br/>
+<details>	
+  <summary><b>⚡ Github Stats</b></summary><br/>
+  <img height="150" alt="Github Stats"  src="https://github-readme-stats.vercel.app/api?username=Alan-aj&show_icons=true&hide_title=true&theme=highcontrast&include_all_commits=true&count_private=true&title_color=fff&hide_border=true" />
+</details>
+<details>	
+  <summary><b>⚡ Github Streaks</b></summary><br/>
+  <img height="150" alt="Github Streaks"  src="https://github-readme-streak-stats.herokuapp.com/?user=Alan-aj&hide_border=true&theme=highcontrast" />
+</details>
+<br/>
 </p>
 <p align="center">
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -38,15 +47,6 @@
 <p align="center" >
 <img height="150" alt="Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alan-aj&layout=compact&langs_count=7&theme=highcontrast&title_color=fff&hide_border=true" />
 </p>
-<br/>
-<details>	
-  <summary><b>⚡ Github Stats</b></summary><br/>
-  <img height="150" alt="Github Stats"  src="https://github-readme-stats.vercel.app/api?username=Alan-aj&show_icons=true&hide_title=true&theme=highcontrast&include_all_commits=true&count_private=true&title_color=fff&hide_border=true" />
-</details>
-<details>	
-  <summary><b>⚡ Github Streaks</b></summary><br/>
-  <img height="150" alt="Github Streaks"  src="https://github-readme-streak-stats.herokuapp.com/?user=Alan-aj&hide_border=true&theme=highcontrast" />
-</details>
 <br/>
 <p align="center" >
 <img align="center" height="25" src="https://visitor-badge.laobi.icu/badge?page_id=Alan-aj.Alan-aj" />
