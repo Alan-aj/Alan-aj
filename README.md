@@ -45,7 +45,7 @@
 <img height="27" src="https://img.shields.io/badge/-Heroku-black?style=flat-square&logo=heroku">
 </p>
 <p align="center" >
-<img height="150" alt="Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alan-aj&layout=compact&langs_count=7&theme=highcontrast&title_color=fff&hide_border=true" />
+<img alt="Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alan-aj&layout=compact&langs_count=7&theme=highcontrast&title_color=fff&hide_border=true" />
 </p>
 <br/>
 <p align="center" >
