@@ -48,10 +48,9 @@
 <p align="center" >
 <img alt="Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alan-aj&layout=compact&langs_count=7&theme=highcontrast&title_color=fff&hide_border=true" />
 </p>
-<br/>
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20World!%22);printf(%22Hello%2C%20World!%22);cout%20%3C%3C%20%22Hello%2C%20World!%22&center=true&size=25&width=600">
-</p><br/>
+</p>
 </details>
 <p align="center" >
 <img align="center" height="25" src="https://visitor-badge.laobi.icu/badge?page_id=Alan-aj.Alan-aj" />
