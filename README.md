@@ -18,18 +18,25 @@
   <li>🧡 I love playing with code</li>
   <li>💛 I love to explore new world</li>
   <li>💚 I love to learn something new</li>
-</ul><br/>
+</ul></p>
+<br/>
 <details>	
   <summary><b>⚡ Github Stats</b></summary><br/>
+  <p align="center">
   <img alt="Github Stats"  src="https://github-readme-stats.vercel.app/api?username=Alan-aj&show_icons=true&hide_title=true&theme=highcontrast&include_all_commits=true&count_private=true&title_color=fff&hide_border=true" />
+  </p>
 </details>
 <details>	
   <summary><b>⚡ Github Streaks</b></summary><br/>
+  <p align="center">
   <img alt="Github Streaks"  src="https://github-readme-streak-stats.herokuapp.com/?user=Alan-aj&hide_border=true&theme=highcontrast" />
+  </p>
 </details>
 <details>	
   <summary><b>⚡ Languages and tools</b></summary><br/>
-</p>
+<p align="center">
+<img alt="Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alan-aj&layout=compact&langs_count=7&theme=highcontrast&title_color=fff&hide_border=true" />
+</p><br/>
 <p align="center">
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
@@ -44,9 +51,6 @@
 <img height="27" src="https://img.shields.io/badge/Chrome-black?style=flat-square&logo=google-chrome">
 <img height="27" src="https://img.shields.io/badge/Firebase-black?style=flat-square&logo=firebase">
 <img height="27" src="https://img.shields.io/badge/-Heroku-black?style=flat-square&logo=heroku">
-</p>
-<p align="center" >
-<img alt="Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alan-aj&layout=compact&langs_count=7&theme=highcontrast&title_color=fff&hide_border=true" />
 </p>
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20World!%22);printf(%22Hello%2C%20World!%22);cout%20%3C%3C%20%22Hello%2C%20World!%22&center=true&size=25&width=600">
