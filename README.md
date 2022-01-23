@@ -50,7 +50,7 @@
 <img height="27" src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git">
 <img height="27" src="https://img.shields.io/badge/Chrome-black?style=flat-square&logo=google-chrome">
 <img height="27" src="https://img.shields.io/badge/Firebase-black?style=flat-square&logo=firebase">
-<img height="27" src="https://img.shields.io/badge/-Heroku-black?style=flat-square&logo=heroku">
+<img height="27" src="https://img.shields.io/badge/-Netlify-black?style=flat-square&logo=netlify">
 </p>
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20World!%22);printf(%22Hello%2C%20World!%22);cout%20%3C%3C%20%22Hello%2C%20World!%22&center=true&size=25&width=400">
