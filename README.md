@@ -1,8 +1,8 @@
 <h1 align="center">Hello <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="25px"> , I’m Alan <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
 <p align="center" >
-<img align="center" alt="Website" height="25" src="https://img.shields.io/badge/Website-black?style=flat-square&logo=google-chrome&logoColor=white" />
-<img align="center" height="25" src="https://img.shields.io/badge/-LinkedIn-black?style=flat-square&logo=Linkedin&logoColor=white" />
-<img align="center" height="25" src="https://img.shields.io/badge/My%20blog-black?style=flat-square&logo=microgenetics&logoColor=white" /><br/>
+<a href="https://alanban.blogspot.com/" target="blank"><img align="center" alt="Website" height="25" src="https://img.shields.io/badge/Website-black?style=flat-square&logo=google-chrome&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/alan-aj/" target="blank"><img align="center" height="25" src="https://img.shields.io/badge/-LinkedIn-black?style=flat-square&logo=Linkedin&logoColor=white" /></a>
+<a href="https://alanban.blogspot.com/" target="blank"><img align="center" height="25" src="https://img.shields.io/badge/My%20blog-black?style=flat-square&logo=microgenetics&logoColor=white" /></a><br/>
 </p>
 <p>
 <h2>I am... </h2>
@@ -48,7 +48,7 @@
 <img height="27" src="https://img.shields.io/badge/-VS%20Code-black?style=flat-square&logo=visual-studio-code">
 <img height="27" src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github&logoColor=white">
 <img height="27" src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git">
-<img height="27" src="https://img.shields.io/badge/Chrome-black?style=flat-square&logo=google-chrome">
+<img height="27" src="https://img.shields.io/badge/Django-black?style=flat-square&logo=django">
 <img height="27" src="https://img.shields.io/badge/Heroku-black?style=flat-square&logo=heroku">
 <img height="27" src="https://img.shields.io/badge/-Netlify-black?style=flat-square&logo=netlify">
 </p>
