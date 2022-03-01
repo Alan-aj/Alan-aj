@@ -4,6 +4,8 @@
 <a href="https://www.linkedin.com/in/alan-aj/" target="_blank"><img align="center" height="25" src="https://img.shields.io/badge/-LinkedIn-black?style=flat-square&logo=Linkedin&logoColor=white" /></a>
 <a href="https://alanban.blogspot.com/" target="_blank"><img align="center" height="25" src="https://img.shields.io/badge/My%20blog-black?style=flat-square&logo=microgenetics&logoColor=white" /></a><br/>
 </p>
+<details>	
+<summary><b>⚡ About Me</b></summary>
 <p>
 <h2>I am... </h2>
 <ul>
@@ -20,6 +22,7 @@
   <li>💚 I love to learn something new</li>
 </ul></p>
 <br/>
+</details>
 <details>	
   <summary><b>⚡ Github Stats</b></summary><br/>
   <p align="center">
