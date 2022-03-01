@@ -55,9 +55,9 @@
 <img height="27" src="https://img.shields.io/badge/Heroku-black?style=flat-square&logo=heroku">
 <img height="27" src="https://img.shields.io/badge/-Netlify-black?style=flat-square&logo=netlify">
 </p>
-<p align="center">
+<!-- <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20World!%22);printf(%22Hello%2C%20World!%22);cout%20%3C%3C%20%22Hello%2C%20World!%22&center=true&size=25&width=400">
-</p>
+</p> -->
 </details>
 <p align="center" >
 <img align="center" height="25" src="https://visitor-badge.laobi.icu/badge?page_id=Alan-aj.Alan-aj" />
