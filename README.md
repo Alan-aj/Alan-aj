@@ -23,13 +23,13 @@
 </ul></p>
 <br/>
 <!-- </details> -->
-<details>	
+<details open>	
   <summary><b>⚡ Github Stats</b></summary><br/>
   <p align="center">
   <img alt="Github Stats"  src="https://github-readme-stats.vercel.app/api?username=Alan-aj&show_icons=true&hide_title=true&theme=highcontrast&include_all_commits=true&count_private=true&title_color=fff&hide_border=true" />
   </p>
 </details>
-<details>	
+<details open>	
   <summary><b>⚡ Github Streaks</b></summary><br/>
   <p align="center">
   <img alt="Github Streaks"  src="https://github-readme-streak-stats.herokuapp.com/?user=Alan-aj&hide_border=true&theme=highcontrast" />
