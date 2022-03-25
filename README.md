@@ -1,3 +1,5 @@
+<details>	
+<summary><b>⚡ About Me</b></summary>
 <h1 align="center">Hello <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="25px"> , I’m Alan <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
 <p align="center" >
 <a href="https://alanban.blogspot.com/" target="_blank"><img align="center" alt="Website" height="25" src="https://img.shields.io/badge/Website-black?style=flat-square&logo=google-chrome&logoColor=white" /></a>
@@ -22,7 +24,7 @@
   <li>🤍 I love to learn something new</li>
 </ul></p>
 <br/>
-<!-- </details> -->
+</details>
 <details>	
   <summary><b>⚡ Github Stats</b></summary><br/>
   <p align="center">
@@ -58,8 +60,8 @@
 <!-- <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20World!%22);printf(%22Hello%2C%20World!%22);cout%20%3C%3C%20%22Hello%2C%20World!%22&center=true&size=25&width=400">
 </p> -->
-</details>
 <p align="center" >
 <img align="center" height="25" src="https://visitor-badge.laobi.icu/badge?page_id=Alan-aj.Alan-aj" />
 <img align="center" height="25" src="https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=If%20Useful&style=flat-square&color=black" alt="Star Badge"/>
 </p>
+</details>
