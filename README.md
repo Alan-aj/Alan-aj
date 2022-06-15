@@ -1,13 +1,13 @@
 <details>	
 <summary><b>⚡ About Me</b></summary>
-<h1 align="center">Hello <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="25px"> , I’m Alan <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
+<h1 align="center">Hello, I’m Alan </h1>
 <p align="center" >
 <a href="https://alan-aj.netlify.app" target="_blank"><img align="center" alt="Website" height="25" src="https://img.shields.io/badge/Website-black?style=flat-square&logo=google-chrome&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/alan-aj/" target="_blank"><img align="center" height="25" src="https://img.shields.io/badge/-LinkedIn-black?style=flat-square&logo=Linkedin&logoColor=white" /></a>
 <a href="https://alanban.blogspot.com/" target="_blank"><img align="center" height="25" src="https://img.shields.io/badge/My%20blog-black?style=flat-square&logo=microgenetics&logoColor=white" /></a><br/>
 </p>
 <!-- <details>	
-<summary><b>⚡ About Me</b></summary> -->
+<summary><b>⚡ About Me</b><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="5px"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></summary> -->
 <p>
 <h2>I am... </h2>
 <ul>
