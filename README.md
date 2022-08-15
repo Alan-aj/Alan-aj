@@ -11,9 +11,9 @@
 <p>
 <h2>I am... </h2>
 <ul>
-  <li>💪 I'm a student, undergraduate, developer and life-long learner</li>
-  <li>🤟 I'm currently a third year CS student</li>
-  <li>🤝 I'm currently working on my final year project</li>
+  <li>💪 I'm a undergraduate, developer and life-long learner</li>
+  <li>🤟 I'm currently a Bsc CS 2022 graduate</li>
+  <li>🤝 I'm currently working on web development project</li>
   <li>👌 I'm currently learning full-stack and machine learning</li>
 </ul></p>
 <p>
